@@ -5,3 +5,4 @@ Data analyst porfolio
 #Measuring the covid cases and death counts per continent and country
 #Calculating the percentage of death rate over cases and country population
 #Finding the trend of the death rates
+[](https://github.com/wndmiao/WM_portfolio/tree/main/image)
