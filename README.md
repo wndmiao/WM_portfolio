@@ -8,7 +8,7 @@ Data analyst porfolio
 ![](/image/map.png)
 ![](/image/chart.PNG)
 
-# [Project: Product Subscription overview]([https://public.tableau.com/app/profile/wendym4423/viz/ProductSubscriptions/Subsription]
+# [Project: Product Subscription overview](https://public.tableau.com/app/profile/wendym4423/viz/ProductSubscriptions/Subsription)
 Data source: 4 tables
     Cuatomer cases: includes case ID, date_datetime,customer_ID, channel, reason
     Customer Info: includes customer_ID, age, gender
@@ -19,3 +19,4 @@ Questions:
 -Finding the percentages of monthly vs annually subscription
 -Finding the signup amount vs cancel amount over years, and the trend
 -What age range and gender are most likely to subcribe the product?
+![](/image/Capture2.PNG)
