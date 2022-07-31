@@ -19,7 +19,7 @@ Data source:
 Data cleaning: remove duplicates, format text, trim space, format number to int, convert string to datetime
 
 Questions:
--Finding the percentages of monthly vs annually subscription.                                                                	
+-Finding the percentages of monthly vs annually subscription.                                                                                                         	
 -Finding the signup amount vs cancel amount over years, and the trend. 	                                                                      
 -What age range and gender are most likely to subcribe the product?                                                     	                      
 ![](/image/Capture2.PNG)	
