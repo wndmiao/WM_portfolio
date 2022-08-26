@@ -37,5 +37,6 @@ Waterfall Chart
 Top 5 Conditional Formatting Data Bars
 Create connection report to link the slicers
 Create connection report to link the slicers and chart title
-![](/image/Capture01.JPG)
+![]/image/Capture%2001.JPG)
+
 
