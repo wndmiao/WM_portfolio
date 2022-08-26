@@ -37,7 +37,8 @@ Waterfall Chart
 Top 5 Conditional Formatting Data Bars                                                                           
 Create connection report to link the slicers                                                                                 
 Create connection report to link the slicers and chart title                                         
-![](/image/Capture%20FD.PNG)
+![](/image/Dashboard.PNG)
+
 
 
 
