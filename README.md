@@ -24,7 +24,9 @@ Questions:
 -What age range and gender are most likely to subcribe the product?                                                     	                      
 ![](/image/Capture2.PNG)	
 
-# [Project: Building a Finance Interactive Dashboard with Excel Pivot Table]
+
+# [Project: Building a Finance Interactive Dashboard with Excel Pivot Table](https://github.com/wndmiao/WM_portfolio/blob/main/Finance%20expense%20intereactive%20dashboard.xlsx)
+
 The Data
 Headline Figures and Images
 Doughnut Chart
