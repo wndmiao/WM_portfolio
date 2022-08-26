@@ -25,18 +25,19 @@ Questions:
 ![](/image/Capture2.PNG)	
 
 
-# [Project: Building a Finance Interactive Dashboard with Excel Pivot Table](https://github.com/wndmiao/WM_portfolio/blob/main/Finance%20expense%20intereactive%20dashboard.xlsx)
+# [Project: Building a Finance Interactive Dashboard with Excel](https://github.com/wndmiao/WM_portfolio/blob/main/Finance%20expense%20intereactive%20dashboard.xlsx)
 
-The Data
-Headline Figures and Images
-Doughnut Chart
-Dual Column Chart
-Line Chart
-Treemap Chart
+The Data                                                                                                      
+Headline Figures and Images                                                                        
+Doughnut Chart                                                                                          
+Dual Column Chart                                                                                     
+Line Chart                                                                                
+Treemap Chart                                                                          
 Waterfall Chart
-Top 5 Conditional Formatting Data Bars
-Create connection report to link the slicers
+Top 5 Conditional Formatting Data Bars                                                                           
+Create connection report to link the slicers                                                                                 
 Create connection report to link the slicers and chart title                                         
-![](/image/Capture%2001.JPG)
+![](/image/Capture%20FD.PNG)
+
 
 
