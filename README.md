@@ -23,3 +23,16 @@ Questions:
 -Finding the signup amount vs cancel amount over years, and the trend. 	                                                                      
 -What age range and gender are most likely to subcribe the product?                                                     	                      
 ![](/image/Capture2.PNG)	
+
+# [Project: Building a Finance Interactive Dashboard with Excel Pivot Table]
+The Data
+Headline Figures and Images
+Doughnut Chart
+Dual Column Chart
+Line Chart
+Treemap Chart
+Waterfall Chart
+Top 5 Conditional Formatting Data Bars
+Create connection report to link the slicers
+Create connection report to link the slicers and chart title
+![](/image/Capture01.PNG)
